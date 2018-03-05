@@ -1,0 +1,5 @@
+Restrições do jogo
+2D
+Para Web
+Sistema Phaser
+https://phaser.io/
